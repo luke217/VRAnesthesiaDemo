@@ -14,29 +14,32 @@ or
 
 
 ## Update Note
-Version Update: Ver1102.zip 
-Update Time: Nov 2nd 2018
+- Version Update: Ver1102.zip 
+- Update Time: Nov 2nd 2018
 
 ### Update Content
 This is the first integrated version including VR and PC. Except for the anesthesia monitor development, all the other work have been settled donw like interaction and network. All in all, it is like a demo or a conclusion for the current stage. But I will still list some parts which needs to be improved in the future.
 
 ### ToDoList:
-On the student side:
-PC:
-“Injection” and “takeSyringe” animation IK still not natural.
-Debug warnings and use profiler to increase performance
-Student view instruction design
-	VR:
-Get a better remote avatar like with either complete body of a surgeon or an incomplete surgeon model edited in Maya
-Spatial Sound of heartbeat and the sound of environment.
-	General:
-Nurse’s AI design enables the interaction between a nurse and the player including sound and gesture and their IK system.
-Get more smart object in the scene.
+On the student side:<br/>
+PC:<br/>
+- “Injection” and “takeSyringe” animation IK still not natural.
+- Debug warnings and use profiler to increase performance
+- Student view instruction design<br/>
+
+VR:<br/>
+- Get a better remote avatar like with either complete body of a surgeon or an incomplete surgeon model edited in Maya
+Spatial Sound of heartbeat and the sound of environment.<br/>
+
+General:<br/>
+- Nurse’s AI design enables the interaction between a nurse and the player including sound and gesture and their IK system.
+- Get more smart object in the scene.<br/>
 
 
-On the instructor side:
+On the instructor side:<br/>
 Add more parameters in Waveform control panel(Specified by George)
 Improvement on SPO2 and CO2 waveform
 
-Alert: Sometimes, the application may not connect to the server or cannot find room in the lobby and it’s likely about the photon server’s service update. We could get two version of the app with one set to region of US in photon cloud and the other set to ‘Best Region’ which will be chosen by the server automatically. It’s not a guarantee that which one of them would run normally, but it worth a shot to try both. If neither of them work, I will debug it and find out why and give it a fix. In the future, I may consider building a server specifically for this app according to the goal of the next stage development and the given financial support.
+#### Alert 
+Sometimes, the application may not connect to the server or cannot find room in the lobby and it’s likely about the photon server’s service update. We could get two version of the app with one set to region of US in photon cloud and the other set to ‘Best Region’ which will be chosen by the server automatically. It’s not a guarantee that which one of them would run normally, but it worth a shot to try both. If neither of them work, I will debug it and find out why and give it a fix. In the future, I may consider building a server specifically for this app according to the goal of the next stage development and the given financial support.
 
