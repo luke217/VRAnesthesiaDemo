@@ -1,4 +1,4 @@
-Instruction on this Version:
+##Instruction on this Version:
 
 Before using the zip file of VR anesthesia, please run the OculusSetup.exe to configure the Oculus environment on your computer and this is a prerequisite to run the Application of VR anesthesia.
 
@@ -7,21 +7,21 @@ When running OculusSetup.exe, better configure it by default directory on ‘C:\
 After configuring the Oculus Environment and downloading the Ver1102.zip, you can directly distract the zip file and run the VROperationRoom.exe and there you go, enjoy and have fun!
 
 
-Game Flow Demonstration:
+##Game Flow Demonstration:
 https://youtu.be/_Rz22sSVqt0
 or
 https://www.bilibili.com/video/av35252377/
 
 
-
+##Update Note
 Version Update: Ver1102.zip 
 Update Time: Nov 2nd 2018
 
-Update Content:
+###Update Content:
 	So this is the first integrated version including VR and PC. Except for the anesthesia monitor development, all the other work have been settled down like interaction and network.
 All in all, it is like a demo or a conclusion for the current stage. But I will still list some parts which needs to be improved in the future.
 
-ToDoList:
+###ToDoList:
 On the student side:
 PC:
 “Injection” and “takeSyringe” animation IK still not natural.
