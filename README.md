@@ -8,9 +8,9 @@ After configuring the Oculus Environment and downloading the Ver1102.zip, you ca
 
 
 ## Game Flow Demonstration
-https://youtu.be/_Rz22sSVqt0
+[Youtube](https://youtu.be/_Rz22sSVqt0)
 or
-https://www.bilibili.com/video/av35252377/
+[哔哩哔哩](https://www.bilibili.com/video/av35252377/）
 
 
 ## Update Note
