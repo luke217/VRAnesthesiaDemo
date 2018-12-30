@@ -12,6 +12,7 @@ After configuring the Oculus Environment and downloading the Ver1102.zip, you ca
 or
 [哔哩哔哩](https://www.bilibili.com/video/av35252377/)
 
+<iframe src="//player.bilibili.com/player.html?aid=35252377&cid=61776191&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Update Note
 - Version Update: Ver1102.zip 
